@@ -1,0 +1,5 @@
+import { USER, ADMIN, SUPERADMIN } from './roles'
+
+export const USER_ACCEESS = USER | ADMIN | SUPERADMIN
+export const ADMIN_ACCESS = ADMIN | SUPERADMIN
+export const SUPERADMIN_ACCESS = SUPERADMIN
