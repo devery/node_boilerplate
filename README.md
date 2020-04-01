@@ -16,7 +16,7 @@ docker run --name name -p 27017:27017 -d mongo
 
 ### Also you will need SendGrid account for creating registration confirming mails.
 </br>
-<img src="img/SendGrid.png"></img>
+<img src="img/sendGrid.png"></img>
 </br>
 
 1) `cd ./server`
@@ -26,7 +26,7 @@ docker run --name name -p 27017:27017 -d mongo
 5) run `npm run dev` or `yarn dev`
 6) Login with `test@devery.devery` and password `12345678`
 
-<a href="https://sendgrid.com/marketing/sendgrid-services-cro/?extProvId=5&extPu=49397-gaw&extLi=164417502&sem_adg=8807286342&extCr=8807286342-321630592703&extSi=&extTg=&keyword=sendgrid&extAP=&extMT=e&utm_medium=cpc&utm_source=google&gclid=CjwKCAjwvOHzBRBoEiwA48i6Ap2rnfCXbOP18_zZ2vkYYdySFF4o9tJduAdagUcSqQfu3ioJZ8TByBoCG6YQAvD_BwE"><img src="img/SG_button.png"></img></a>
+<a href="https://sendgrid.com/marketing/sendgrid-services-cro/?extProvId=5&extPu=49397-gaw&extLi=164417502&sem_adg=8807286342&extCr=8807286342-321630592703&extSi=&extTg=&keyword=sendgrid&extAP=&extMT=e&utm_medium=cpc&utm_source=google&gclid=CjwKCAjwvOHzBRBoEiwA48i6Ap2rnfCXbOP18_zZ2vkYYdySFF4o9tJduAdagUcSqQfu3ioJZ8TByBoCG6YQAvD_BwE"><img src="img/SG_bit.png"></img></a>
 
 ## Running client
 
@@ -41,3 +41,4 @@ In case you want to build this repository use `npm run build` or `yarn build`
 <a href="https://github.com/devery/react_boilerplate"><img src="img/rnButton.png"></img></a>
 <a href="https://github.com/devery/eveplate"><img src="img/EveplateButton.png"></img></a>
 <a href="https://github.com/devery/deveryjs"><img src="img/jsButton.png"></img></a>
+<a href="https://github.com/devery/vue_boilerplate"><img src="img/vue_b.png"></img></a>
