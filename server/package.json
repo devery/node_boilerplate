@@ -36,7 +36,7 @@
     "limax": "^1.6.0",
     "lodash": "^4.17.11",
     "moment": "^2.20.1",
-    "mongoose": "^4.10.6",
+    "mongoose": "^5.7.5",
     "morgan": "^1.8.0",
     "node-gyp": "^3.8.0",
     "npm-run-all": "^4.1.2",
