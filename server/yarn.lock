@@ -3365,9 +3365,9 @@ fast-text-encoding@^1.0.0:
   integrity sha512-R9bHCvweUxxwkDwhjav5vxpFvdPGlVngtqmx4pIZfSUhM/Q4NiIUHB456BAf+Q1Nwu3HEZYONtu+Rya+af4jiQ==
 
 figgy-pudding@^3.5.1:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.1.tgz#862470112901c727a0e495a80744bd5baa1d6790"
-  integrity sha512-vNKxJHTEKNThjfrdJwHc7brvM6eVevuO5nTj6ez8ZQ1qbXTvGthucRF7S4vf2cr71QVnT70V34v0S1DyQsti0w==
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.2.tgz#b4eee8148abb01dcf1d1ac34367d59e12fa61d6e"
+  integrity sha512-0btnI/H8f2pavGMN8w40mlSKOfTK2SVJmBfBeVIj3kNw0swwgzyRq0d5TJVOwodFmtvpPeWPN/MCcfuWF0Ezbw==
 
 figures@^2.0.0:
   version "2.0.0"
@@ -6903,9 +6903,9 @@ sshpk@^1.7.0:
     tweetnacl "~0.14.0"
 
 ssri@^6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
-  integrity sha512-3Wge10hNcT1Kur4PDFwEieXSCMCJs/7WvSACcrMYrNp+b8kDL1/0wJch5Ni2WrtwEa2IO8OsVfeKIciKCDx/QA==
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.2.tgz#157939134f20464e7301ddba3e90ffa8f7728ac5"
+  integrity sha512-cepbSq/neFK7xB6A50KHN0xHDotYzq58wWCa5LeWqnPrHG8GzfEjO/4O8kpmcGW+oaxkvhEJCWgbgNk4/ZV93Q==
   dependencies:
     figgy-pudding "^3.5.1"
 
@@ -7659,7 +7659,7 @@ web3-core-method@1.0.0-beta.51:
     eventemitter3 "3.1.0"
     lodash "^4.17.11"
 
-web3-core-subscriptions@1.0.0-beta.51, web3-core-subscriptions@^1.0.0-beta.51:
+web3-core-subscriptions@1.0.0-beta.51:
   version "1.0.0-beta.51"
   resolved "https://registry.yarnpkg.com/web3-core-subscriptions/-/web3-core-subscriptions-1.0.0-beta.51.tgz#64e150d1699543e4ab7bad7a9ce2bb5715a5b2d8"
   integrity sha512-bM4KlA37Or/XfrZKLtXlvUSISKWUkXOH/32s0DBnxRkKuey8QKK460H5KF9/HS8LfY7cO11NAepnFe4Tk1rSaQ==
@@ -7810,7 +7810,7 @@ web3-providers@1.0.0-beta.51:
     websocket "git://github.com/frozeman/WebSocket-Node.git#browserifyCompatible"
     xhr2-cookies "1.1.0"
 
-web3-utils@1.0.0-beta.51, web3-utils@^1.0.0-beta.51:
+web3-utils@1.0.0-beta.51:
   version "1.0.0-beta.51"
   resolved "https://registry.yarnpkg.com/web3-utils/-/web3-utils-1.0.0-beta.51.tgz#6b0767289be4f27b14895b011bcb5fa6c707fca5"
   integrity sha512-c9sRSscu0NIjD96X4ToDOgTxGyJevppuB+uHOgWkziaLGqlw/Li1l24nGkvr0Zqpt9SufvfPcWf8EEC92pnwKg==
