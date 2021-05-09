@@ -34,7 +34,7 @@
     "json2csv": "^4.3.5",
     "jwt-simple": "^0.5.1",
     "limax": "^1.6.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "moment": "^2.20.1",
     "mongoose": "^4.10.6",
     "morgan": "^1.8.0",
