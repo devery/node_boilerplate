@@ -2336,9 +2336,9 @@ cookie@0.3.1:
   integrity sha1-5+Ch+e9DtMi6klxcWpboBtFoc7s=
 
 cookiejar@^2.1.1:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.2.tgz#dd8a235530752f988f9a0844f3fc589e3111125c"
-  integrity sha512-Mw+adcfzPxcPeI+0WlvRrr/3lGVO0bD75SxX6811cxSh1Wbxx7xZBGK1eVtDf6si8rg2lhnUjsVLMFMfbRIuwA==
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.4.tgz#ee669c1fea2cf42dc31585469d193fef0d65771b"
+  integrity sha512-LDx6oHrK+PhzLKJU9j5S7/Y3jM/mUHvD/DeI1WQmJn652iPC5Y4TBzC9l+5OMOXlyTTA+SmVUPm0HQUwpD5Jqw==
 
 copy-concurrently@^1.0.0:
   version "1.0.5"
@@ -7659,7 +7659,7 @@ web3-core-method@1.0.0-beta.51:
     eventemitter3 "3.1.0"
     lodash "^4.17.11"
 
-web3-core-subscriptions@1.0.0-beta.51, web3-core-subscriptions@^1.0.0-beta.51:
+web3-core-subscriptions@1.0.0-beta.51:
   version "1.0.0-beta.51"
   resolved "https://registry.yarnpkg.com/web3-core-subscriptions/-/web3-core-subscriptions-1.0.0-beta.51.tgz#64e150d1699543e4ab7bad7a9ce2bb5715a5b2d8"
   integrity sha512-bM4KlA37Or/XfrZKLtXlvUSISKWUkXOH/32s0DBnxRkKuey8QKK460H5KF9/HS8LfY7cO11NAepnFe4Tk1rSaQ==
@@ -7810,7 +7810,7 @@ web3-providers@1.0.0-beta.51:
     websocket "git://github.com/frozeman/WebSocket-Node.git#browserifyCompatible"
     xhr2-cookies "1.1.0"
 
-web3-utils@1.0.0-beta.51, web3-utils@^1.0.0-beta.51:
+web3-utils@1.0.0-beta.51:
   version "1.0.0-beta.51"
   resolved "https://registry.yarnpkg.com/web3-utils/-/web3-utils-1.0.0-beta.51.tgz#6b0767289be4f27b14895b011bcb5fa6c707fca5"
   integrity sha512-c9sRSscu0NIjD96X4ToDOgTxGyJevppuB+uHOgWkziaLGqlw/Li1l24nGkvr0Zqpt9SufvfPcWf8EEC92pnwKg==
